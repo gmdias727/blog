@@ -1,4 +1,4 @@
 {
-  "buildCommand": "git submodule update --init --recursive && cd zola && zola build",
+  "buildCommand": "zola build",
   "outputDirectory": "public"
 } 

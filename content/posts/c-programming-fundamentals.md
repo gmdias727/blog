@@ -3,8 +3,8 @@ title = "C Programming: Understanding Memory Management"
 date = 2025-01-12
 description = "Deep dive into C programming and manual memory management fundamentals"
 
-[taxonomies]
-tags = ["tech", "programming", "c", "systems"]
+# [taxonomies]
+# tags = ["tech", "programming", "c", "systems"]
 +++
 
 # C Programming: Understanding Memory Management

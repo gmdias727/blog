@@ -3,7 +3,6 @@ base_url = "https://blog-one-eta-39.vercel.app/"  # For local development
 title = "Gabriel Mazieri"
 
 theme = "apollo"
-taxonomies = [{ name = "tags" }]
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -37,6 +36,6 @@ toc = true
 # Dynamic Note
 dynamic_note = true
 
-[extra.taxonomies]
-sort_by = "page_count"
-reverse = true
+# [extra.taxonomies]
+# sort_by = "page_count" 
+# reverse = true

@@ -3,8 +3,8 @@ title = "Finding Balance in a Digital World"
 date = 2025-01-10
 description = "Thoughts on maintaining work-life balance in our connected age"
 
-[taxonomies]
-tags = ["lifestyle", "productivity", "balance"]
+# [taxonomies]
+# tags = ["lifestyle", "productivity", "balance"]
 +++
 
 # Finding Balance in a Digital World

@@ -3,8 +3,8 @@ title = "Getting Started with Go Programming"
 date = 2025-01-15
 description = "A beginner's guide to Go programming language and why it's perfect for modern development"
 
-[taxonomies]
-tags = ["tech", "programming", "go"]
+# [taxonomies]
+# tags = ["tech", "programming", "go"]
 +++
 
 # Getting Started with Go Programming

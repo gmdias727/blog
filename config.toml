@@ -1,0 +1,41 @@
+# The URL the site will be built for
+base_url = "http://127.0.0.1:1111"  # For local development
+title = "Gabriel Mazieri"
+
+theme = "apollo"
+taxonomies = [{ name = "tags" }]
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+minify_html = false  # Disabled for better debugging and readability
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+theme = "toggle"
+favicon = "favicon.ico"
+socials = [
+  { name = "twitter", url = "https://x.com/grande0_", icon = "twitter" },
+  { name = "github", url = "https://github.com/gmdias727", icon = "github" },
+]
+
+menu = [
+  { name = "/home", url = "/", weight = 1 },
+  { name = "/posts", url = "/posts", weight = 1 },
+  { name = "/projects", url = "/projects", weight = 2 },
+  { name = "/about", url = "/about", weight = 3 },
+  { name = "/tags", url = "/tags", weight = 4 },
+  { name = "/resume", url = "/resume", weight = 5 },
+]
+# Put all your custom variables here
+
+# Table of Content
+toc = true
+# Dynamic Note
+dynamic_note = true
+use_cdn = false

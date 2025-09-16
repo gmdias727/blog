@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "http://127.0.0.1:1111"  # For local development
+base_url = "https://blog-rjj9z6ppd-grandes-projects.vercel.app/"  # For local development
 title = "Gabriel Mazieri"
 
 theme = "apollo"

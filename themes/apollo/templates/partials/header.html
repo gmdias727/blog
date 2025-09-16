@@ -213,7 +213,11 @@
                 }
             </script>
         {% else %}
-            <script>setTheme(getSavedTheme());</script>
+            <script>
+                document.addEventListener('DOMContentLoaded', function() {
+                    setTheme(getSavedTheme());
+                });
+            </script>
         {% endif %}
     {% endif %}
 

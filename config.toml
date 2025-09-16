@@ -9,7 +9,6 @@ taxonomies = [{ name = "tags" }]
 compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
-minify_html = false  # Disabled for better debugging and readability
 
 [markdown]
 # Whether to do syntax highlighting
@@ -38,4 +37,3 @@ menu = [
 toc = true
 # Dynamic Note
 dynamic_note = true
-use_cdn = false

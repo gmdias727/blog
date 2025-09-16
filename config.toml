@@ -3,7 +3,7 @@ base_url = "https://blog-one-eta-39.vercel.app/"  # For local development
 title = "Gabriel Mazieri"
 
 theme = "apollo"
-taxonomies = [{ name = "tags" }]
+taxonomies = [{ name = "tags", feed = true }]
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -24,12 +24,12 @@ socials = [
 ]
 
 menu = [
-  { name = "/home", url = "/", weight = 1 },
-  { name = "/posts", url = "/posts", weight = 1 },
-  { name = "/projects", url = "/projects", weight = 2 },
-  { name = "/about", url = "/about", weight = 3 },
-  { name = "/tags", url = "/tags", weight = 4 },
-  { name = "/resume", url = "/resume", weight = 5 },
+  { name = "home", url = "/", weight = 1 },
+  { name = "posts", url = "/posts", weight = 2 },
+  { name = "projects", url = "/projects", weight = 3 },
+  { name = "about", url = "/about", weight = 4 },
+  { name = "tags", url = "/tags", weight = 5 },
+  { name = "resume", url = "/resume", weight = 6 },
 ]
 # Put all your custom variables here
 

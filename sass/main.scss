@@ -1,0 +1,15 @@
+// Import the theme's main SASS file
+@import "../themes/apollo/sass/main";
+
+// Additional custom overrides for both light and dark themes
+:root {
+  --primary-color: #507aef;
+}
+
+:root.dark {
+  --primary-color: #507aef;
+}
+
+:root.light {
+  --primary-color: #507aef;
+}

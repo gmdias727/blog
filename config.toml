@@ -25,9 +25,8 @@ socials = [
 menu = [
   { name = "home", url = "/", weight = 1 },
   { name = "posts", url = "/posts", weight = 2 },
-  { name = "projects", url = "/projects", weight = 3 },
-  { name = "about", url = "/about", weight = 4 },
-  { name = "resume", url = "/resume", weight = 5 },
+  { name = "about", url = "/about", weight = 3 },
+  { name = "resume", url = "/resume", weight = 4 },
 ]
 # Put all your custom variables here
 

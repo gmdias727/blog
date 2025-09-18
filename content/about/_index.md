@@ -12,6 +12,7 @@ I'm a computer science enthusiast and tech explorer with a passion for **systems
 ## What I Do
 
 I specialize in **Go** and **C programming**, focusing on:
+
 - **Systems programming** and performance optimization
 - **Backend development** with Go
 - **Low-level programming** with C
@@ -23,12 +24,14 @@ I specialize in **Go** and **C programming**, focusing on:
 I believe the best way to truly understand something is to teach it. Here, I share:
 
 ### 🔧 **Technical Content**
+
 - Go programming tutorials and best practices
 - C programming insights and system-level concepts
 - Computer science deep dives
 - Performance optimization techniques
 
 ### 🌱 **Lifestyle & Thoughts**
+
 - Productivity tips for developers
 - Tech industry insights
 - Work-life balance in tech

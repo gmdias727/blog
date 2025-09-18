@@ -21,7 +21,7 @@
                             <a href={{ term.permalink }}>{{ term.name }}</a>
                         </h1>
 
-                        <small class="meta">{{ term.page_count }} page{{ term.page_count | pluralize }}</small>
+                        <small class="meta">{{ term.pages | length }} page{{ term.pages | length | pluralize }}</small>
                     </div>
                 {% endfor -%}
             </ul>

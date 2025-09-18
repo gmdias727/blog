@@ -30,6 +30,7 @@ menu = [
   { name = "tags", url = "/tags", weight = 4 },
   { name = "about", url = "/about", weight = 5 },
   { name = "resume", url = "/resume", weight = 6 },
+  { name = "cards", url = "/cards", weight = 7 },
 ]
 # Put all your custom variables here
 

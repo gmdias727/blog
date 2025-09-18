@@ -2,6 +2,9 @@
 title = "About"
 +++
 
+More pages:
+[Hobbies](./hobbies)
+
 # Hey, I'm Gabriel! 👋
 
 I'm a computer science enthusiast and tech explorer with a passion for **systems programming** and **innovative tech products**. When I'm not diving deep into code, you'll find me analyzing the latest tech trends and figuring out how things work under the hood.

@@ -1,6 +1,7 @@
 # The URL the site will be built for
 base_url = "https://blog-one-eta-39.vercel.app/"  # For local development
 title = "Gabriel Mazieri"
+taxonomies = [{ name = "tags" }]
 
 theme = "apollo"
 
@@ -25,8 +26,10 @@ socials = [
 menu = [
   { name = "home", url = "/", weight = 1 },
   { name = "posts", url = "/posts", weight = 2 },
-  { name = "about", url = "/about", weight = 3 },
-  { name = "resume", url = "/resume", weight = 4 },
+  { name = "talks", url = "/talks", weight = 3 },
+  { name = "tags", url = "/tags", weight = 4 },
+  { name = "about", url = "/about", weight = 5 },
+  { name = "resume", url = "/resume", weight = 6 },
 ]
 # Put all your custom variables here
 
@@ -34,6 +37,21 @@ menu = [
 toc = true
 # Dynamic Note
 dynamic_note = true
+
+# Giscus Comments Configuration
+[extra.giscus]
+repo = "gmdias727/blog"
+repo_id = "R_kgDOKjQZqQ"
+category = "General"
+category_id = "DIC_kwDOKjQZqcCb8Q"
+mapping = "pathname"
+strict = "0"
+reactions_enabled = "1"
+emit_metadata = "0"
+input_position = "bottom"
+theme = "preferred_color_scheme"
+lang = "en"
+loading = "lazy"
 
 # [extra.taxonomies]
 # sort_by = "page_count" 

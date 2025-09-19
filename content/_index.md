@@ -169,42 +169,4 @@ comment = true
     document.getElementById('current-date').textContent = formattedDate;
 </script>
 
-<!-- Comments Section -->
-<div class="comments-section">
-    <h2>💬 Comments</h2>
-    <p>Have thoughts about my blog? Feel free to share them below!</p>
-    <div class="giscus"></div>
-</div>
 
-<style>
-.comments-section {
-    margin: 3rem 0;
-    padding: 2rem 0;
-    border-top: 1px solid var(--border-color, #e9ecef);
-}
-
-.comments-section h2 {
-    text-align: center;
-    margin-bottom: 1rem;
-    color: var(--text-color);
-}
-
-.comments-section p {
-    text-align: center;
-    margin-bottom: 2rem;
-    color: var(--text-muted, #6c757d);
-    font-style: italic;
-}
-
-/* Giscus styling */
-.giscus {
-    margin-top: 2rem;
-}
-
-/* Dark theme adjustments for comments */
-@media (prefers-color-scheme: dark) {
-    .comments-section {
-        border-top-color: var(--border-color, #4a5568);
-    }
-}
-</style>

@@ -5,6 +5,9 @@ description = "Why I build this and what tools I used"
 
 [taxonomies]
 tags = ["blogging", "Zola", "personal", "web-development", "career", "learning"]
+
+[extra]
+comment = true
 +++
 
 # The Blog

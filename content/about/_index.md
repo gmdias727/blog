@@ -1,5 +1,8 @@
 +++
 title = "About Me"
+
+[extra]
+comment = true
 +++
 
 More pages:
@@ -32,3 +35,4 @@ Just letting you know, I'm a very caring person.
 I Hate Models, Klangkuenstler, Mandragora, Ben Buitendijk (YouTube Music)
 
 ICQ Baby (Soundcloud)
+

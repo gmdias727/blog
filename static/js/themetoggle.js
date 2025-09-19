@@ -1,6 +1,5 @@
 function setTheme(mode) {
     localStorage.setItem("theme-storage", mode);
-    updateItemToggleTheme();
 }
 
 // Functions needed for the theme toggle
@@ -55,6 +54,4 @@ function getSavedTheme() {
 }
 
 // Update the toggle theme on page load
-document.addEventListener('DOMContentLoaded', function() {
-    updateItemToggleTheme();
-});
+updateItemToggleTheme();

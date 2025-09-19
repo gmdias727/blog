@@ -83,7 +83,6 @@ comment = true
 /* Dark theme adjustments */
 @media (prefers-color-scheme: dark) {
     .nav-card {
-        background: var(--card-bg, #2d3748);
         border-color: var(--border-color, #4a5568);
     }
     
@@ -130,12 +129,6 @@ comment = true
     <span>📝 Posts</span>
     <p>Technical articles, tutorials, and thoughts</p>
     <a href="/posts" class="nav-link">View All Posts →</a>
-</div>
-
-<div class="nav-card">
-    <span>🎤 Talks</span>
-    <p>Presentations and speaking engagements</p>
-    <a href="/talks" class="nav-link">View Talks →</a>
 </div>
 
 <div class="nav-card">

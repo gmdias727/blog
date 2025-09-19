@@ -1,63 +1,34 @@
 +++
-title = "About"
+title = "About Me"
 +++
 
 More pages:
-[Hobbies](./hobbies)
+[Hobbies and Interests](./hobbies)
 
-# Hey, I'm Gabriel! 👋
+Hi, my name is Gabriel, I'm 25 years old, my day one in tech was in feb/2019 and to be fair I'm in a consistent pace since July/2024 only.
 
-I'm a computer science enthusiast and tech explorer with a passion for **systems programming** and **innovative tech products**. When I'm not diving deep into code, you'll find me analyzing the latest tech trends and figuring out how things work under the hood.
+I'm 6'4 foot tall (1.93 meters), I have a small female cat called Canelinha (stands for "Little Shin or "Tiny Shin")
 
-## What I Do
+<img src="/images/5073362112347835244.jpg" alt="look" style="display:block; margin:auto; max-width:400px;" />
 
-I specialize in **Go** and **C programming**, focusing on:
+I am programmer/developer/software engineer/SWE with background in fullstack development designing databases, frontend and backend alongside
+engineering team for shipping products
 
-- **Systems programming** and performance optimization
-- **Backend development** with Go
-- **Low-level programming** with C
-- **Computer science fundamentals** and algorithms
-- **Tech product analysis** and emerging technologies
+I'm aware/acknowledged about these niches:
+- fidelity and customer experience 
+- data analysis
+- finance and banking
 
-## Why This Blog?
+I didn't find a path I'm most interested in, but I'm aware that finding one is very important.
 
-I believe the best way to truly understand something is to teach it. Here, I share:
+Why I'm just in a consistent pace now in 2025? for a couple of reasons, I stopped hopping from one programming language to another; I still cannot explain clearly why I've done that, and my most basic hypothesis is that I was hopping to understand more things, something like procedural, object oriented and functional programming; turns out none of these mattered and now I stick with Go and C only, doing OSSU computer science course.
 
-### 🔧 **Technical Content**
+Meanwhile I'm not doing that so much anymore, I still cope with social media doomscrolling sometimes.
 
-- Go programming tutorials and best practices
-- C programming insights and system-level concepts
-- Computer science deep dives
-- Performance optimization techniques
+Just letting you know, I'm a very caring person.
 
-### 🌱 **Lifestyle & Thoughts**
+# Music/Artists I really enjoy
 
-- Productivity tips for developers
-- Tech industry insights
-- Work-life balance in tech
-- Personal reflections on technology's impact
+I Hate Models, Klangkuenstler, Mandragora, Ben Buitendijk (YouTube Music)
 
-## My Approach
-
-I'm driven by curiosity and the desire to understand how technology shapes our world. Whether it's exploring a new programming paradigm, analyzing a groundbreaking tech product, or diving into computer science theory, I approach everything with the question: *"How does this really work?"*
-
-## Beyond Code
-
-When I'm not programming, I enjoy:
-- Staying up-to-date with tech product launches
-- Reading about computer science research
-- Exploring new development tools and methodologies
-- Finding ways to balance productivity with well-being
-
-## Let's Connect!
-
-I love connecting with fellow developers, tech enthusiasts, and curious minds. Feel free to reach out:
-
-- **Twitter**: [@grande0_](https://x.com/grande0_) - Tech thoughts and daily musings
-- **GitHub**: [gmdias727](https://github.com/gmdias727) - Code and projects
-- **Email**: Drop me a line if you want to discuss Go, C, or any tech topic!
-
----
-
-*"Don't push too much boundaries, you'll be surprised by the fall"* - a reminder that steady progress often beats aggressive sprints in both code and life.
-
+ICQ Baby (Soundcloud)

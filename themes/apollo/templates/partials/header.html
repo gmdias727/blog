@@ -61,9 +61,22 @@
 
     {# Favicon #}
     {% if config.extra.favicon %}
-        <link rel="icon"
-              type="image/png"
-              href="{{ get_url(path=config.extra.favicon) }}" />
+        <!-- Standard favicon -->
+        <link rel="icon" type="image/x-icon" href="{{ get_url(path=config.extra.favicon) }}" />
+        
+        <!-- Multiple sizes for better browser support -->
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ get_url(path='favicon-16x16.png') }}" />
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ get_url(path='favicon-32x32.png') }}" />
+        
+        <!-- Apple touch icon -->
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ get_url(path='apple-touch-icon.png') }}" />
+        
+        <!-- Android Chrome icons -->
+        <link rel="icon" type="image/png" sizes="192x192" href="{{ get_url(path='android-chrome-192x192.png') }}" />
+        <link rel="icon" type="image/png" sizes="512x512" href="{{ get_url(path='android-chrome-512x512.png') }}" />
+        
+        <!-- Web manifest -->
+        <link rel="manifest" href="{{ get_url(path='site.webmanifest') }}" />
     {% endif %}
 
     {# Font from cdn or disk #}

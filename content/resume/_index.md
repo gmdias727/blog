@@ -13,7 +13,7 @@ From most recent to my last job
 - Shopping Eldorado (novo)
 - Shopping Eldorado (legado)
 
-My article talking about the time I've had at Axxispay: 
+My article talking about the time I've had at Axxispay: [here](../posts/axxispay)
 
 ---
 
